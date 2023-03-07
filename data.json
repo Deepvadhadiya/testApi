@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "title": "Web Development",
+        "image": "https://www.pexels.com/photo/gray-laptop-computer-showing-calculator-application-with-codes-907487/",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae efficitur dolor. Nam sodales quis dolor et venenatis."
+    },
+    {
+        "id": "2",
+        "title": "App Development",
+        "image": "https://www.pexels.com/photo/codes-on-a-computer-monitor-2764993/",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae efficitur dolor. Nam sodales quis dolor et venenatis."
+    },
+    {
+        "id": "3",
+        "title": "Software Development",
+        "image": "https://www.pexels.com/photo/man-using-a-laptop-5474282/",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae efficitur dolor. Nam sodales quis dolor et venenatis."
+    },
+    {
+        "id": "4",
+        "title": "Digital Marketing",
+        "image": "https://www.pexels.com/photo/macbook-pro-92904/",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae efficitur dolor. Nam sodales quis dolor et venenatis."
+    },
+    {
+        "id": "5",
+        "title": "Figma Designer",
+        "image": "https://www.pexels.com/photo/close-up-of-computer-screen-325111/",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae efficitur dolor. Nam sodales quis dolor et venenatis."
+    },
+    {
+        "id": "6",
+        "title": "Frontend Developer",
+        "image": "https://www.pexels.com/photo/business-code-coding-computer-270632/",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae efficitur dolor. Nam sodales quis dolor et venenatis."
+    },
+    {
+        "id": "7",
+        "title": "Backend Developer",
+        "image": "https://www.pexels.com/photo/turned-on-computer-monitor-displaying-text-270360/",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae efficitur dolor. Nam sodales quis dolor et venenatis."
+    }
+]
