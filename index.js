@@ -2,10 +2,6 @@ const express = require("express");
 // const cros = require("cros");
 const app = express();
 
-const cors = require("cors");
-
-app.use(cors());
-
 // app.use(cros());
 
 const apiData = require("./data.json");
